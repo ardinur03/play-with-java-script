@@ -1,0 +1,79 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 5px 30px;
+    margin: 5vw 34vw;
+    border-style: solid;
+    border-color: #e1e1e1;
+}
+
+.header-form {
+    text-align: center;
+    font-size: 25px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 10px 8px 10px 15px;
+    list-style-type: none;
+    background: rgb(255, 255, 255);
+    margin: 10px;
+    border-radius: 2px;
+    border-style: solid;
+    border-color: #e1e1e1;
+    font-weight: 500;
+}
+
+.content-total-harga {
+    padding: 2px 25px 25px 28px;
+    font-weight: 500;
+}
+
+.rata-kanan {
+    float: right;
+    cursor: auto;
+}
+
+.bg-green {
+    background-color: #2fcc41;
+    color: #ffffff;
+    border-style: solid;
+    border-color: #2fcc41;
+}
+
+#menu-detail:hover {
+    background-color: #c8c8c8;
+    transition: 0.5s;
+}
+
+.bg-green:hover {
+    background-color: #37b546 !important;
+    color: #ffffff;
+    border-style: solid;
+    border-color: #2fcc41;
+}
+
+@media only screen and (max-width: 768px) {
+    /*untuk tampilan responsif*/
+    .container {
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 5px 30px;
+        margin: 5vw 10vw;
+    }
+}
