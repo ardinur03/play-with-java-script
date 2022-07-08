@@ -1,5 +1,5 @@
 # Play Javascript Event Listener with case study order menu and calculate result from price
-
+### demo website [DEMO](https://ardinur03.github.io/play-with-java-script)
 #### note : This task is the task of Junior web developer vsga kominfo
 
 # Technology
