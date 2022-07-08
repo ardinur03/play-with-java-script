@@ -8,5 +8,5 @@
 3. Java Script
 
 
-###### © COPYRIGHT 2021  |  Created By  [Muhamad Ardi Nur Insan](www.ardinur.engineer)
+###### © COPYRIGHT 2021  |  Created By <a href="https://www.ardinur.engineer" target="_blank"> Muhamad Ardi Nur Insan </a>
 
